@@ -2,15 +2,11 @@ menu:
   Home: /
   Blog: /list/
   About: /about/
-  tags: /tags/
-  categories: /categories/
   # ...
 
 showInMenu:  # menu 中的哪些页面显示在首页中（“首页”必定显示）
   - Blog
   - About
-  - tags
-  - categories
   # - 关于
   # - 标签
   # - 分类
@@ -22,6 +18,8 @@ index:  # 首页的页眉页脚
   titlePosition: left # center | left  # 首页标题的位置
 
 footerLink: # 底部的链接自定义
+  tags: /tags/
+  categories: /categories/
   info:  # info这个单词不能修改，不想使用可为空
   # 添加链接格式 举例
   # 友链: /friends/ # 需要hexo new page friends
