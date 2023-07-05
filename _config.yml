@@ -11,7 +11,7 @@ author: Павел Клюев
 language: ru
 timezone: Europe/Moscow
 
-# URL
+# URL 
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
 url: https://pashtet04.github.io
 permalink: :year/:month/:day/:title/
