@@ -3,7 +3,7 @@ menu:
   Blog: /list/
   About: /about/
   tags: /tags/
-  #categories: /categories/
+  categories: /categories/
   # ...
 
 showInMenu:  # menu 中的哪些页面显示在首页中（“首页”必定显示）
