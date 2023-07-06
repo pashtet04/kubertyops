@@ -2,16 +2,26 @@
 title: cv
 date: 2023-07-06 11:29:33
 ---
-## Pavel Klyuev
-## Site Reliability Engineer of Dataplatform team at Leroy Merlin
+
+<table border="0">
+    <tr>
+        <td><b style="font-size:20px">Pavel Klyuev</br>Site Reliability Engineer of Dataplatform team at Leroy Merlin</b></td>
+        <td><b style="font-size:30px"></td>
+    </tr>
+    <tr>
+        <td>
+
 
 ## Work Experience
 
 ### Leroy Merlin
+<div style="text-align: right">
 
-->_Moscow, Russia_
+_Moscow, Russia_ -- _Dec 2020 to Present_
+
+</div>
+
 **Site Reliability Engineer**
-_Dec 2020 to Present_
 
 - Administered and contributed to the open-source Kubeflow installation, with experience deploying and managing Kubernetes clusters on Yandex.Cloud, GKE, and On-premise environments using Terraform.
 - Developed and maintained Helm charts for applications, and utilized Infrastructure as a Code tools (such as Packer, Terraform, Ansible, and Vault) to manage playbooks, scripts, templates, and configuration files.
@@ -23,11 +33,13 @@ _Dec 2020 to Present_
 - Mentored and provided guidance to junior team members.
 
 ### Snoonu
+<div style="text-align: right">
 
-->_Doha, Qatar_
+_Doha, Qatar_ -- _May 2022 to Jan 2023_
+
+</div>
 
 **DevOps Tech Lead**
-_May 2022 to Jan 2023_
 
 - Prepared infrastructure for FIFA World Cup 2022 in Qatar
 - Implemented Continuous Integration, Delivery, and Deployment using Azure DevOps and GitLab CI
@@ -44,47 +56,72 @@ _May 2022 to Jan 2023_
 - Configured Cloudflare to prevent DDOS attacks
 - Prepared Disaster Recovery plan
 
+</td>
+<td> 
+
+<div style="text-align: right">
+
 Email: **<pashtet04@gmail.com>**
 Phone: **+79645575556**
 Website: **[pashtet04.github.io](https://pashtet04.github.io)**
-
-||: [Dribbble](URL) ||: [Behance](URL) || : [Github](URL) ||
-
-[[blank-line]]
-
 
 ## Skills
 
 **Technical**
 
-`Python`
+`Linux`
 
-`Go`
+`Cloud`
 
-`Microservices Architecture`
+`Kubernetes`
 
-**Project Management**
+`Infrastructure as a Code`
 
-`Kanban Methodology`
+`CI/CD`
+
+`Observability`
+
+**Methodologies**
+
+`SRE`
+
+`DevOps`
 
 `Scrum`
 
+**Programming**
+
+`Go`
+
+`Python`
+
+`Bash`
+
 **Languages** 
-Italian: Mother tongue, C2
-English: Fluent, C1 (TOEFL)
-German:  Good, B1
+Russian: native
+English: Intermediate, B1
 
 ## Education
 
-### Carnegie Mellon University
-Pittsburgh, Pennsylvania
-**Masters of Computer Science**
-2014-2016
-Specialization: IT Security and Reliability
-[[blank-line]]
+### Russian State University for the Humanities, Moscow,
+Moscow, Russia
+**Specialist of Information security**
+2009-2012
+Specialization: Computer and Information Systems Security
 
-### The State University of NY,
-Oswego, New York
-**Bachelor of Engineering**
-2010 - 2014
-Specialization: Security, Networking, Software Development
+## About me
+
+I’m interesting for
+Information Security
+Programming
+Reading blogs and have discussions in chat rooms
+Books (prefer historical drama)
+Ice-hockey, skiing
+Linux <3
+Building high-resilience systems
+
+</div>
+
+</td>
+</tr>
+</table>
