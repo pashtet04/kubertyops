@@ -2,12 +2,13 @@ menu:
   Home: /
   Blog: /list/
   About: /about/
+  CV: /cv/
   # ...
 
 showInMenu:  # menu 中的哪些页面显示在首页中（“首页”必定显示）
   - Blog
   - About
-  # - 关于
+  - CV
   # - 标签
   # - 分类
 
